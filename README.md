@@ -2,6 +2,6 @@
  
 # Sejam bem vindos!!
 
-Aqui consta todos os projetos para fixar e aprender os conhecimentos em HTML, CSS e JAVASCRIPT.
+Aqui consta todos os meus projetos para treinar e aprender os conhecimentos em HTML, CSS e JAVASCRIPT.
 
 Aproveitem.
